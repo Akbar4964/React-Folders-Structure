@@ -9,3 +9,4 @@ export const publicRoutes = [
 ];
 
 export const privateRoutes = [{ path: routes.CONTACT, page: <Contact /> }];
+
